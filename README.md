@@ -1,1 +1,1 @@
-# Image-Compression-Algorithm-with-Singular-Value-Decomposition-SVD-
+This algortihm uses SVD to compress monochromatic images
